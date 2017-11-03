@@ -17,4 +17,9 @@ toCharArray(): returns a copy of the character array
 
 in the enhanced for loop, the iterator is a copy, not the element itself.
 
-matches 1 or more spaces in a row? (" +")
+Repetition: matches 1 or more spaces in a row? (" +")
+Concatenation
+Alternation
+Character Classes: [] mean match "anything in the set"   "-" indicates a range   
+Negation: "^" indicates NOT any characters in this set   [a-zA-Z]+   [^.?!]+
+[0-9]+ caputures ANY non-negative integer
