@@ -23,3 +23,16 @@ Alternation
 Character Classes: [] mean match "anything in the set"   "-" indicates a range   
 Negation: "^" indicates NOT any characters in this set   [a-zA-Z]+   [^.?!]+
 [0-9]+ caputures ANY non-negative integer
+
+Week III
+Project: implement benchmarking to compare the running time of your basic document with the running time of the efficient document
+
+Some factors that impact the performance of an algorithm
+1. The number of operations
+2. Focus on how performance scales
+3. Go beyond input size
+
+Size of input is usually represented as n
+
+f(n) = O(g(n)) means, eventually, f(n) and g(n) grow in same way as their input grows
+Big O notation captures the rate of growth of two functions
