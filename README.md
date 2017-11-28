@@ -32,7 +32,18 @@ Some factors that impact the performance of an algorithm
 2. Focus on how performance scales
 3. Go beyond input size
 
-Size of input is usually represented as n
+Operation: basic unit that doesn't change as the input changes.
+
+Size of input is usually represented as n.
+
+Asymptotic Analysis:
+
 
 f(n) = O(g(n)) means, eventually, f(n) and g(n) grow in same way as their input grows
 Big O notation captures the rate of growth of two functions
+
+English reads: 1 million is big O of 1
+Example: Initialization costs
+
+1. Only keep dominant term
+2. Drop constant
