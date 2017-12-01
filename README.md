@@ -47,3 +47,6 @@ Example: Initialization costs
 
 1. Only keep dominant term
 2. Drop constant
+
+--- Big O with Nested Operations
+Count from the inside out
