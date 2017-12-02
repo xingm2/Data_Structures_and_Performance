@@ -50,3 +50,6 @@ Example: Initialization costs
 
 --- Big O with Nested Operations
 Count from the inside out
+
+--- Recursion
+Is about breaking a big problem down into a smaller subprobem and then a manageable amount of work to incrementally change what we need to do.
