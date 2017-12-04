@@ -1,7 +1,7 @@
 # Data_Structures_and_Performance
 by University of California, San Diego
 
-Week II
+--Week II
 Project: Text Editor - determine the readability of text.
 Flesch readability score.
 
@@ -24,7 +24,7 @@ Character Classes: [] mean match "anything in the set"   "-" indicates a range
 Negation: "^" indicates NOT any characters in this set   [a-zA-Z]+   [^.?!]+
 [0-9]+ caputures ANY non-negative integer
 
-Week III
+--Week III
 Project: implement benchmarking to compare the running time of your basic document with the running time of the efficient document
 
 Some factors that impact the performance of an algorithm
@@ -53,3 +53,12 @@ Count from the inside out
 
 --- Recursion
 Is about breaking a big problem down into a smaller subprobem and then a manageable amount of work to incrementally change what we need to do.
+
+--- Pitfalls
+O(1) O(logn) O(n) O(n2)
+
+--- Benchmarking
+1. compiler
+2. JVM 
+3. OS
+4. HW
