@@ -62,3 +62,8 @@ O(1) O(logn) O(n) O(n2)
 2. JVM 
 3. OS
 4. HW
+
+--Week IV
+---LL vs ArrayL
+Two types of LL: 1. Doubly Linked List 2. Singly Linked List
+Alternate Implementation: Sentinel/dummy nodes.
