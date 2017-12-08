@@ -67,3 +67,13 @@ O(1) O(logn) O(n) O(n2)
 ---LL vs ArrayL
 Two types of LL: 1. Doubly Linked List 2. Singly Linked List
 Alternate Implementation: Sentinel/dummy nodes.
+
+---Generics 
+ListNode<E>     E is a type parameter
+---Exception
+Code methods declare that they throw exceptions? Checked Exception
+For unchecked exception, declaration is not requireed, but OK
+
+---
+Recursive data type
+No type parameter in the constructor header
