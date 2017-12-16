@@ -77,3 +77,8 @@ For unchecked exception, declaration is not requireed, but OK
 ---
 Recursive data type
 No type parameter in the constructor header
+
+---Test RoT
+1. consider corner cases when testing
+2. Test common case use
+3. testing has costs
