@@ -82,3 +82,26 @@ No type parameter in the constructor header
 1. consider corner cases when testing
 2. Test common case use
 3. testing has costs
+
+--Week V
+
+What defines a tree?
+# single root
+# each node can have only one parent(except the root)
+# no cycles in a tree
+
+BT Each node needs:
+1. a value
+2. a parent 
+3. a left child
+4. a right child
+
+Preorder Traversal:
+1. self
+2. left subtree
+3. right subtree
+
+DFT : pre, in, post
+BFT:  Queue using LinkedList
+
+---BST
